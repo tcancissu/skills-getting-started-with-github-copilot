@@ -175,3 +175,19 @@ footer {
   padding: 20px;
   color: #666;
 }
+
+/* Add styles for participant info */
+.participant-info {
+  font-size: 1.2em;
+  color: #333;
+  margin: 10px 0;
+}
+
+/* Add styles for improved visibility */
+.participant-info .name {
+  font-weight: bold;
+}
+
+.participant-info .details {
+  font-style: italic;
+}
